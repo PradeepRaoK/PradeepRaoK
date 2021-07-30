@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PradeepRaoK
-- 👀 I’m interested in C,C++
-- 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on C,C++
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me I dont know.
 
 <!---
