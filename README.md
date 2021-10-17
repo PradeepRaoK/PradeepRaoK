@@ -6,6 +6,8 @@
 - [![Github](https://img.shields.io/github/followers/PradeepRaoK?label=Follow&style=social)](https://github.com/PradeepRaoK)
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepRaoK&show_icons=true&theme=tokyonight)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepRaoK&theme=tokyonight)
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradeepRaoK&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 
