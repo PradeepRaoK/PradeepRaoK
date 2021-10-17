@@ -3,7 +3,9 @@
 - 🌱 I’m currently BE in CSE.
 - 🤝Reach me @ 19pradeepraokokrady@gmail.com
 - ![](https://visitor-badge.laobi.icu/badge?page_id=PradeepRaoK.PradeepRaoK)
-- [![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=PradeepRaoK)](https://github.com/PradeepRaoK/github-readme-stats)
+- [![Github](https://img.shields.io/github/followers/PradeepRaoK?label=Follow&style=social)](https://github.com/PradeepRaoK)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepRaoK&show_icons=true&theme=tokyonight)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepRaoK&theme=tokyonight)
 
 
 
