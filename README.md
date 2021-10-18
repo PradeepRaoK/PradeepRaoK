@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @PradeepRaoK
+# 👋 Hi, I’m @PradeepRaoK
 - 👀 I’m interested in programming and to learn new things related to programming.
 - 🌱 I’m currently BE in CSE.
 - 🤝Reach me @ 19pradeepraokokrady@gmail.com
+# Stats
 - ![](https://visitor-badge.laobi.icu/badge?page_id=PradeepRaoK.PradeepRaoK)
 - [![Github](https://img.shields.io/github/followers/PradeepRaoK?label=Follow&style=social)](https://github.com/PradeepRaoK)
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PradeepRaoK&show_icons=true&theme=tokyonight)
