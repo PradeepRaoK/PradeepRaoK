@@ -10,6 +10,9 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepRaoK&theme=tokyonight)
 # Streaks
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradeepRaoK&theme=tokyonight)](https://git.io/streak-stats)
+- <h1 align="left">Github Contribution Graph:</h1>
+- <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=PradeepRaoK&theme=material-palenight&show_icons=true" alt="Pradeep Rao K" /></p>
+
 
 
 
