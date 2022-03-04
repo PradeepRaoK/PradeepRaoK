@@ -10,8 +10,8 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepRaoK&theme=tokyonight)
 # Streaks
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PradeepRaoK&theme=tokyonight)](https://git.io/streak-stats)
-
-
+# Socials
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pradeep-rao-k-0b7b81204" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pradeep-rao-k-0b7b81204?trk=profile-badge">Pradeep Rao K</a></div>           
 
 
 
