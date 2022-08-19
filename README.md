@@ -3,4 +3,4 @@
 - 🌱 I’m currently BE in CSE.
 
 # My Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79934da4-6027-4506-abf7-0090438816a1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![lfc104-ethics-for-open-source-development](https://user-images.githubusercontent.com/88186518/185569875-f9c66054-0862-4a5f-a51f-77e67b404077.png)
