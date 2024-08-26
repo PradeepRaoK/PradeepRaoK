@@ -1,7 +1,5 @@
-# 👋 Hi, I’m @PradeepRaoK
-
-- 👀 I’m interested in programming.
-- 🌱 I’m currently final year B.E grad.
+# 👋 Hello, I’m Pradeep Rao.
+- 🌱 I’m currently Sofware Engineer at VCTI.
 
 ## Stats
 
